@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="30.092326">
+<testcase classname="Free CRM Login" name="Free CRm Login Test Case" time="9.947988">
+<system-out><![CDATA[Given User is already on login page.........................................passed
+When title of login page is Free CRM........................................passed
+Then user enters "alimjan" and "A101613h"...................................passed
+Then user clicks on login button............................................passed
+Then user is on home page...................................................passed
+Then user closes the browser................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM Login" name="Free CRm Login Test Case 2" time="11.227566">
+<system-out><![CDATA[Given User is already on login page.........................................passed
+When title of login page is Free CRM........................................passed
+Then user enters "alimjan" and "A101613H"...................................passed
+Then user clicks on login button............................................passed
+Then user is on home page...................................................passed
+Then user closes the browser................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Free CRM Login" name="Free CRm Login Test Case 3" time="8.916772">
+<system-out><![CDATA[Given User is already on login page.........................................passed
+When title of login page is Free CRM........................................passed
+Then user enters "Alimjan" and "a101613h"...................................passed
+Then user clicks on login button............................................passed
+Then user is on home page...................................................passed
+Then user closes the browser................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
