@@ -23,5 +23,6 @@ Examples:
 | alimjan  | A101613h |
 | alimjan  | A101613H |
 | Alimjan  | a101613h |
+| AlimJan  | A101613h |
 
 
